@@ -40,21 +40,21 @@ function Home () {
     }, []);
     
     const images = [
-        "/img/carouselItem1.png",
-        "/img/carouselItem2.png",
-        "/img/carouselItem3.png",
-        "/img/carouselItem4.png",
-        "/img/carouselItem5.png",
-        "/img/carouselItem6.png"
+        "/dev-test/img/carouselItem1.png",
+        "/dev-test/img/carouselItem2.png",
+        "/dev-test/img/carouselItem3.png",
+        "/dev-test/img/carouselItem4.png",
+        "/dev-test/img/carouselItem5.png",
+        "/dev-test/img/carouselItem6.png"
     ]
 
     const carouselImages = [
-        "/img/members/member-1.jpg",
-        "/img/members/member-2.jpg",
-        "/img/members/member-3.jpg",
-        "/img/members/member-4.jpg",
-        "/img/members/member-5.jpg",
-        "/img/members/member-6.jpg",
+        "/dev-test/img/members/member-1.jpg",
+        "/dev-test/img/members/member-2.jpg",
+        "/dev-test/img/members/member-3.jpg",
+        "/dev-test/img/members/member-4.jpg",
+        "/dev-test/img/members/member-5.jpg",
+        "/dev-test/img/members/member-6.jpg",
     ]
 
 
@@ -63,15 +63,15 @@ function Home () {
 
         {
             title: "GET International and Citi Global College MOA Signing",
-            imgSrc: "/img/MOA-signing-cover.jpg",
+            imgSrc: "/dev-test/img/MOA-signing-cover.jpg",
         },
         {
             title: "1st National Conference held in Unibersidad de Manila",
-            imgSrc: "/img/carouselItem2.png",
+            imgSrc: "/dev-test/img/carouselItem2.png",
         },
         {
             title: "GET International receives Distinguished Teacher Training Award",
-            imgSrc: "/img/distinguished-teacher-training-award.jpg",
+            imgSrc: "/dev-test/img/distinguished-teacher-training-award.jpg",
         },
         // Add more items as needed
     ];  
@@ -81,15 +81,15 @@ function Home () {
 
         {
             title: "Call for Papers for Volume 01, Issue 04 (November)",
-            imgSrc: "/img/call-for-papers.jpg",
+            imgSrc: "/dev-test/img/call-for-papers.jpg",
         },
         {
             title: "Welcome, new members from Zamboanga Peninsula Polytechnic State University!",
-            imgSrc: '../img/members/member-3.jpg',
+            imgSrc: '../dev-test/img/members/member-3.jpg',
         },
         {
             title: "Submit All Entries for Teacher as A Community Leader",
-            imgSrc: "/img/magazine.jpg",
+            imgSrc: "/dev-test/img/magazine.jpg",
         }
     ]
 
@@ -379,7 +379,7 @@ function Home () {
                         <div className="col d-flex align-items-center justify-content-center mb-5 mt-3">
                             <div className="row">
                                 <div className="col d-flex align-items-center">
-                                    <img src="/img/national-conference-participants2023.jpg" alt="National COnference 2023 Participants" id="Participants"/>
+                                    <img src="/dev-test/img/national-conference-participants2023.jpg" alt="National COnference 2023 Participants" id="Participants"/>
                                 </div>
 
                                 <div className="justify-content-center align-items-center">

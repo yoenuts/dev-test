@@ -12,7 +12,7 @@ function Administration () {
     switch(admin) {
         case 'president':
             pageTitle = 'Message of the President';
-            imgPath = '/img/president.png';
+            imgPath = '/dev-test/img/president.png';
             message = (
                 <div className="col-md-7 align-items-center justify-content-center ">
                     <div className="adminMessage mt-5" >
@@ -41,7 +41,7 @@ function Administration () {
             break;
         case 'vicepresident':
             pageTitle = 'Message of the Vice President for International Linkages and Research Publication';
-            imgPath = '/img/vicePresident.png';
+            imgPath = '/dev-test/img/vicePresident.png';
             imgAlt = 'Vice President'
             message = (
                 <div className="col-md-7 flex-column align-items-center justify-content-center mt-3">

@@ -17,7 +17,7 @@ class About extends React.Component {
                                 <p>Guild of Educators in TESOL International was established in 2017 with the aim of providing high-quality training and collaboration opportunities for teachers in local schools. From its inception, GET International has been dedicated to improving the teaching standards and practices in the education sector.</p>
                                 <p>Initially, the organization focused on conducting training programs for teachers in various private schools locally and internationally, helping them enhance their skills and knowledge in pedagogy and curriculum development. Through these training initiatives, GET International forged strong collaborations with several private schools, working closely with them to implement effective teaching methodologies.</p>
                                 
-                                <div className="training2017 mt-4 mb-4"><img src="/img/training-2017.jpg" alt="Training 2017"></img></div>
+                                <div className="training2017 mt-4 mb-4"><img src="/dev-test/img/training-2017.jpg" alt="Training 2017"></img></div>
 
                                 <p>Recognizing the importance of language education, GET International opened a TESOL (Teaching English to Speakers of Other Languages) diploma program. This program aims to equip educators with the necessary expertise to teach English as a second language. Upon completion of the TESOL diploma, graduates were deployed to partner schools abroad, enabling them to gain valuable international teaching experience.</p>
                                 
@@ -26,7 +26,7 @@ class About extends React.Component {
                                 </div>
 
                                 <p className="mt-4">In <strong>February 2023</strong>, GET International expanded its horizons by venturing into research publication across discipline. This marked a significant milestone for the organization, as it demonstrated a commitment to advancing knowledge and contributing to the academic community. The research publications covered a wide range of educational topics and showcased the expertise and insights of GET International’s team.</p>
-                                <div className="feb2023"><img src="/img/feb-2023.jpg" alt="February 2023 Call for Papers"></img></div>
+                                <div className="feb2023"><img src="/dev-test/img/feb-2023.jpg" alt="February 2023 Call for Papers"></img></div>
                                 <p className="mt-3">Furthermore, GET International initiated multidisciplinary research conferences, offering a platform for scholars and researchers to share their findings and engage in fruitful discussions. These conferences were conducted in a hybrid mode, combining in-person and virtual participation to ensure wider accessibility.</p>
 
                                 <h4>Advancing Education Through Partnerships</h4>

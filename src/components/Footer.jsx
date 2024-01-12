@@ -40,17 +40,17 @@ function Footer() {
 				<div className="col d-flex justify-content-center mt-3">
 					<div className="logo-collection">
 						<h5>GET International Research Journal is indexed by:</h5>
-						<img src="/img/issn-logo.png" alt="issn-logo" />
-						<a href="https://www.openaire.eu/"><img src="/img/open-aire-logo.png" alt="open-aire-logo" /></a>
-						<a href="https://zenodo.org/communities/getinternational?q=&l=list&p=1&s=10&sort=newest"><img src="/img/zenodo-logo.png" alt="zenodo-logo" /></a>
-						<img src="/img/google-scholar-logo.png" alt="google-scholar-logo" />
-						<a href="https://www.scipedia.com/profile/getinternational24"><img src="/img/scipedia-logo.png" alt="google-scholar-logo"/></a>
+						<img src="/dev-test/img/issn-logo.png" alt="issn-logo" />
+						<a href="https://www.openaire.eu/"><img src="/dev-test/img/open-aire-logo.png" alt="open-aire-logo" /></a>
+						<a href="https://zenodo.org/communities/getinternational?q=&l=list&p=1&s=10&sort=newest"><img src="/dev-test/img/zenodo-logo.png" alt="zenodo-logo" /></a>
+						<img src="/dev-test/img/google-scholar-logo.png" alt="google-scholar-logo" />
+						<a href="https://www.scipedia.com/profile/getinternational24"><img src="/dev-test/img/scipedia-logo.png" alt="google-scholar-logo"/></a>
 					</div> 
 				</div>
 				
 				<div className="logo-collection-1">
 					<h5>Plagiarism checked by:</h5>
-					<img src="/img/quetext-logo.svg" alt="quetext-logo"></img>
+					<img src="/dev-test/img/quetext-logo.svg" alt="quetext-logo"></img>
 				</div>
 				<hr />
 				<div className="footer-end">

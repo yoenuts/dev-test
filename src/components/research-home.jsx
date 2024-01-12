@@ -9,9 +9,9 @@ function ResearchHome() {
 
     const magazineImg = [
 
-        "/img/magazine/magazine-1.png",
-        "/img/magazine/magazine-2.png",
-        "/img/magazine/magazine-3.png",
+        "/dev-test/img/magazine/magazine-1.png",
+        "/dev-test/img/magazine/magazine-2.png",
+        "/dev-test/img/magazine/magazine-3.png",
 
     ]
 
@@ -91,7 +91,7 @@ function ResearchHome() {
                     <div className="row">
                         <div className="row d-flex justify-content-center">
                             
-                            <img src="/img/vol1/issue4.png" alt='Volume 1 Series 4' style={{maxWidth: '400px', maxHeight: '500px'}}></img>
+                            <img src="/dev-test/img/vol1/issue4.png" alt='Volume 1 Series 4' style={{maxWidth: '400px', maxHeight: '500px'}}></img>
                             
 
                             <div className="row">

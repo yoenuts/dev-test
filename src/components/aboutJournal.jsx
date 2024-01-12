@@ -96,7 +96,7 @@ function aboutJournal() {
                     <div className="row">
                         <div className="row d-flex justify-content-center">
                             
-                            <img src="/img/vol1/issue4.png" alt='Volume 1 Series 4' style={{maxWidth: '400px', maxHeight: '500px'}}></img>
+                            <img src="/dev-test/img/vol1/issue4.png" alt='Volume 1 Series 4' style={{maxWidth: '400px', maxHeight: '500px'}}></img>
                             
 
                             <div className="row">
@@ -173,14 +173,14 @@ function aboutJournal() {
                                 <div className=" row d-flex justify-content-center partner-logo">
                                     <div className="col align-items-center d-flex">
                                         <a href="https://www.facebook.com/profile.php?id=100064116576126">
-                                            <img src="/img/reading-clinique.png" alt="partner-logo-1"></img>
+                                            <img src="/dev-test/img/reading-clinique.png" alt="partner-logo-1"></img>
                                         </a>
                                         <h6 style={{marginLeft: '40px'}}>READING CLINIQUE</h6>
                                     </div>
                                     <hr class="title-rule"></hr>
                                     <div className="col align-items-center d-flex mb-3">
                                         <a href="https://www.facebook.com/MYAHouseOFAchievers">
-                                            <img src="/img/mya-learning.png" alt="partner-logo-2"></img>
+                                            <img src="/dev-test/img/mya-learning.png" alt="partner-logo-2"></img>
                                         </a>
                                         <h6 style={{marginLeft: '20px'}}>MYA HOUSE OF ACHIEVERS LEARNING TUTORIAL CENTER INC.</h6>
                                     </div>

@@ -54,7 +54,7 @@
                     
                     
                     <div className="col d-flex justify-content-center align-items-center mb-5">
-                        <img className="issue-cover" src={`/img/vol1/issue${currentIssue.issueNumber}.png`} alt="issue-cover" />
+                        <img className="issue-cover" src={`/dev-test/img/vol1/issue${currentIssue.issueNumber}.png`} alt="issue-cover" />
                         <div className="col-md-4 mt-3 text-center">
                             <div>
                                 <h1>

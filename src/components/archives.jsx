@@ -12,7 +12,7 @@ function Archives() {
                         <div className="col-md-6 col-12 text-center mb-3" id="issue-cover-div">
                             <div className="archive-front-div">
                                 <Link to="/research/archives/vol1/1">
-                                    <img src="/img/vol1/issue3.png" alt="issue-1-front-page" className="front-page-img"></img>
+                                    <img src="/dev-test/img/vol1/issue3.png" alt="issue-1-front-page" className="front-page-img"></img>
                                 </Link> 
 
                                 <div className="col-md-12 mt-3 text-center">
@@ -38,7 +38,7 @@ function Archives() {
                         <div className="col-md-6 col-12 text-center mb-3" id="issue-cover-div">
                             <div className="archive-front-div">
                                 <Link to="/research/archives/vol1/2">
-                                    <img src="/img/vol1/issue2.png" alt="issue-2-front-page" className="front-page-img"></img>
+                                    <img src="/dev-test/img/vol1/issue2.png" alt="issue-2-front-page" className="front-page-img"></img>
                                 </Link>
                                 <div className="col-md-12 mt-3 text-center">
                                     <div className="archive-info-container">
@@ -60,7 +60,7 @@ function Archives() {
                         <div className="col-md-6 col-12 text-center mb-3" id="issue-cover-div">
                             <div className="archive-front-div">
                                 <Link to="/research/archives/vol1/3">
-                                    <img src="/img/vol1/issue1.png" alt="issue-3-front-page" className="front-page-img"></img>
+                                    <img src="/dev-test/img/vol1/issue1.png" alt="issue-3-front-page" className="front-page-img"></img>
                                 </Link>
                                 <div className="col-md-12 mt-3 text-center">
                                     <div className="archive-info-container">
@@ -82,7 +82,7 @@ function Archives() {
                         <div className="col-md-6 col-12 text-center mb-3" id="issue-cover-div">
                             <div className="archive-front-div">
                                 <Link to="/research/archives/vol1/4">
-                                    <img src="/img/vol1/issue4.png" alt="issue-4-front-page" className="front-page-img"></img>
+                                    <img src="/dev-test/img/vol1/issue4.png" alt="issue-4-front-page" className="front-page-img"></img>
                                 </Link>
                                 <div className="col-md-12 mt-3 text-center">
                                     <div className="archive-info-container">

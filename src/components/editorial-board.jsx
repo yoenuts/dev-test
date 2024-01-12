@@ -8,17 +8,17 @@ function EditorialBoard() {
           row: 1,
           elements: [
             {
-              imgSrc: "/img/Editorial-Board/ps.png",
+              imgSrc: "/dev-test/img/Editorial-Board/ps.png",
               name: "Percival Salise, EdD",
               school: "PAGCOR",
             },
             {
-              imgSrc: "/img/Editorial-Board/jln.png",
+              imgSrc: "/dev-test/img/Editorial-Board/jln.png",
               name: "Jayrome L. Nuñez, EdD(cand.)",
               school: "Tafe Arabia Higher Education, Saudi Arabia"
             },
             {
-              imgSrc: "/img/Editorial-Board/ess.png",
+              imgSrc: "/dev-test/img/Editorial-Board/ess.png",
               name: "Evangelina S. Seril, DEM",
               school: "Polytechnic University of the Philippines"
             }
@@ -28,17 +28,17 @@ function EditorialBoard() {
           row: 2,
           elements: [
             {
-              imgSrc: "/img/Editorial-Board/rjs.png",
+              imgSrc: "/dev-test/img/Editorial-Board/rjs.png",
               name: "Rosemarie Jean E. Smith, DVM",
               school: "TESDA, Guiguinto Bulacan"
             },
             {
-              imgSrc: "/img/Editorial-Board/mph.png",
+              imgSrc: "/dev-test/img/Editorial-Board/mph.png",
               name: "Mahalia Paz O. Ho, JD",
               school: "DepEd – Capiz National High School (SHS)"
             },
             {
-              imgSrc: "/img/Editorial-Board/ad.png",
+              imgSrc: "/dev-test/img/Editorial-Board/ad.png",
               name: "Alesa Durgaryan, ESL/EFL/ESP, Trainer PhD",
               school: "KhachaturAbovian Armenian State Pedagogical University",
             }
@@ -48,17 +48,17 @@ function EditorialBoard() {
           row: 3,
           elements: [
             {
-              imgSrc: "/img/Editorial-Board/smg.png",
+              imgSrc: "/dev-test/img/Editorial-Board/smg.png",
               name: "Susana M. Galvez, PhD",
               school: "Bulacan State University",
             },
             {
-              imgSrc: "/img/Editorial-Board/dm.png",
+              imgSrc: "/dev-test/img/Editorial-Board/dm.png",
               name: "Dr.Muthmainnah,S.PdI.,MPd",
               school: "Universitas Al Asyariah Mandar"
             },
             {
-              imgSrc: "/img/Editorial-Board/wha.png",
+              imgSrc: "/dev-test/img/Editorial-Board/wha.png",
               name: "Welma H. Alisasis,EdD",
               school: "DepEd NCR Region"
             }
@@ -68,17 +68,17 @@ function EditorialBoard() {
           row: 4,
           elements: [
             {
-              imgSrc: "/img/Editorial-Board/apc.png",
+              imgSrc: "/dev-test/img/Editorial-Board/apc.png",
               name: "Arlon Ponce Cadiz, PhD",
               school: "DepEd Regional Office III"
             },
             {
-              imgSrc: "/img/Editorial-Board/htab.png",
+              imgSrc: "/dev-test/img/Editorial-Board/htab.png",
               name: "Hazhar Talaat Abubaker Blbas",
               school: "Salahaddin University"
             },
             {
-              imgSrc: "/img/Editorial-Board/ys.png",
+              imgSrc: "/dev-test/img/Editorial-Board/ys.png",
               name: "Yosra Sellami, PhD",
               school: "University of Sfax, Sfax City"
             }
@@ -88,17 +88,17 @@ function EditorialBoard() {
           row: 5,
           elements: [
             {
-              imgSrc: "/img/Editorial-Board/ded.png",
+              imgSrc: "/dev-test/img/Editorial-Board/ded.png",
               name: "Daniel Edwards",
               school: "St. Patrick School – Quezon City"
             },
             {
-              imgSrc: "/img/Editorial-Board/mla.png",
+              imgSrc: "/dev-test/img/Editorial-Board/mla.png",
               name: "Mayette L. Aromin, EdD",
               school: "Lyceum of the Philippines University"
             },
             {
-              imgSrc: "/img/Editorial-Board/mcy.png",
+              imgSrc: "/dev-test/img/Editorial-Board/mcy.png",
               name: "Maria Cecilia C. Ycong, PhD",
               school: "Trinity University of Asia"
             }
@@ -108,17 +108,17 @@ function EditorialBoard() {
           row: 6,
           elements: [
             {
-              imgSrc: "/img/Editorial-Board/elio.png",
+              imgSrc: "/dev-test/img/Editorial-Board/elio.png",
               name: "Eda Lou Ibasco Ochangco, PhD",
               school: "Far Eastern University"
             },
             {
-              imgSrc: "/img/Editorial-Board/mlaj.png",
+              imgSrc: "/dev-test/img/Editorial-Board/mlaj.png",
               name: "Mark LewisMontano L. Agudilla Jr., PhD",
               school: "DepEd",
             },
             {
-              imgSrc: "/img/Editorial-Board/dbb.png",
+              imgSrc: "/dev-test/img/Editorial-Board/dbb.png",
               name: "Dondon B. Buensuceso, PhD",
               school: "Don Bosco Technical Institute-Makati City"
             }
@@ -145,7 +145,7 @@ function EditorialBoard() {
                         <div className="row justify-content-center">
                             <div className="col-md-6 d-flex flex-column justify-content-center align-items-center mt-5">
                                 <div className="row">
-                                    <img src="/img/Editorial-Board/llm.png" alt="Editor-in-Chief" />
+                                    <img src="/dev-test/img/Editorial-Board/llm.png" alt="Editor-in-Chief" />
                                 </div>
                                 <div className='row'>
                                     <h6>Leovigildo Lito D. Mallillin, PhD</h6>
@@ -156,7 +156,7 @@ function EditorialBoard() {
 
                             <div className="col-md-6 d-flex flex-column justify-content-center align-items-center mt-5">
                                 <div className="row">
-                                  <img src="/img/Editorial-Board/lpg.png" alt="Editor-in-Chief" />
+                                  <img src="/dev-test/img/Editorial-Board/lpg.png" alt="Editor-in-Chief" />
                                 </div>
                                 <div className='row'>
                                   <h6>Louie P. Gula</h6>
