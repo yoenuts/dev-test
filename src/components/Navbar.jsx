@@ -13,7 +13,7 @@ import Container from 'react-bootstrap/Container';
 const LINKS = [
 	{
 		page: "HOME",
-		link: "/dev-test/home",
+		link: "",
 	},
 	{
 		page: "ABOUT",
