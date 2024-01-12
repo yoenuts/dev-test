@@ -121,7 +121,7 @@ function Contact () {
                 <div className="row">
                     <div className="col d-flex">
                         <div className="col d-flex justify-content-center">
-                            <img className="research-logo" src="/img/GET-logo.png" alt="GET-logo" />
+                            <img className="research-logo" src="/dev-test/img/GET-logo.png" alt="GET-logo" />
                         </div>
                     </div>
                     <div className="col d-flex align-items-center">
@@ -157,9 +157,9 @@ function Contact () {
             </div>  
 
             <div className="contactForm">
-                <div className="row mt-3">
+                <div className="row mt-3 mb-3">
                     <div className="col-md-6 d-flex flex-column justify-content-center align-items-center">
-                        <h1>Send Us A Message</h1>
+                        <h1 className="mt-4">Send Us A Message</h1>
                         <div class="article-container mt-4 mb-4">
                             <form>
                                 <div class="row">

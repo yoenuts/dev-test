@@ -8,7 +8,16 @@ import '../App.css';
 
 function Home () {
     //check if component mounted on DOM, then target class nd execute the function import on it.
+    /*
+                            <div className="row">
+                                <div className="d-flex justify-content-center align-items-center mt-3 mb-5">
+                                    <a href="https://www.flagcounter.me/details/el3" target="_blank" rel="noopener noreferrer">
+                                        <img src="https://www.flagcounter.me/el3/" alt="Flag Counter"></img>
+                                    </a>
+                                </div>
+                            </div>
 
+    */
     useEffect(() => {
         $('.mCustomScrollbar').mCustomScrollbar({
             theme: 'light-thin'
@@ -147,7 +156,7 @@ function Home () {
             </section>
 
 
-            <section className="home-content-1">
+            <section className="home-content-1 mb-5">
                 
                 <div className="row">
 
@@ -322,11 +331,7 @@ function Home () {
                                 </div>
                             </div>
 
-                            <div className="row">
-                                <a href="https://www.flagcounter.me/details/el3" target="_blank" rel="noopener noreferrer">
-                                    <img src="https://www.flagcounter.me/el3/" alt="Flag Counter"></img>
-                                </a>
-                            </div>
+
 
                         </div>
                     </div>
