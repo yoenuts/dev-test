@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, Router } from 'react-router-dom';
 import React from 'react';
 
 import './App.css';
@@ -22,24 +22,26 @@ import ArticleInfo from './components/article-info';
 const App = () => {
   return (
     <div className='App'>
-      <NavBar />
-      <Routes>
-        <Route path='/' element={<Home />} />
-        <Route path='/about/background' element={<About />} />
-        <Route path='/contact' element={<Contact />} />
-        <Route path='/academics' element={<Academics />} />
-        <Route path='about/vmc' element={<VMC />} />
-        <Route path='/research/:section' element={<Research />} />
-        <Route path='/research/aboutJournal/:page' element={<AboutJournal />} />
-        <Route path='/research/archives/vol1/:issueNumber' element={<ArticleIssue />} />
-        <Route path='/research/archives/vol1/:articleID' element={<ArticleInfo />} />
-        <Route path='/administration/:admin' element={<Administration />} />
-        <Route path='/memberForm' element={<MemberForm />} />
-        <Route path='/dashboard' element={<UserPage />} />
-        <Route path='/verifyAccount' element={<VerifyForm />} />
-        <Route path='/editForm' element={<EditForm />} />
-      </Routes>
-      <Footer />
+      <Router basename="/dev-test">
+        <NavBar />
+        <Routes>
+          <Route path='/' element={<Home />} />
+          <Route path='/about/background' element={<About />} />
+          <Route path='/contact' element={<Contact />} />
+          <Route path='/academics' element={<Academics />} />
+          <Route path='about/vmc' element={<VMC />} />
+          <Route path='/research/:section' element={<Research />} />
+          <Route path='/research/aboutJournal/:page' element={<AboutJournal />} />
+          <Route path='/research/archives/vol1/:issueNumber' element={<ArticleIssue />} />
+          <Route path='/research/archives/vol1/:articleID' element={<ArticleInfo />} />
+          <Route path='/administration/:admin' element={<Administration />} />
+          <Route path='/memberForm' element={<MemberForm />} />
+          <Route path='/dashboard' element={<UserPage />} />
+          <Route path='/verifyAccount' element={<VerifyForm />} />
+          <Route path='/editForm' element={<EditForm />} />
+        </Routes>
+        <Footer />
+      </Router>
     </div>
   );
 }

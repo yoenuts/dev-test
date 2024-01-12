@@ -8,7 +8,7 @@ function ResearchHeader () {
             <div className="row">
                 <div className="col d-flex">
                     <div className="col d-flex justify-content-center">
-                        <img className="research-logo" src="/img/GET-logo.png" alt="GET-logo" />
+                        <img className="research-logo" src="/dev-test/img/GET-logo.png" alt="GET-logo" />
                     </div>
                 </div>
                 <div className="col d-flex align-items-center">
