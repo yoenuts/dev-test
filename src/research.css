@@ -1,0 +1,51 @@
+.about-container li {
+    list-style-type: disc;
+}
+
+.about-journal-container  p, .editorial-board-container p {
+    font-size: medium;
+    text-align: justify;
+    color: rgb(0, 0, 0);
+}
+
+.aboutJournal-title {
+    font-family: "Budmo W00 Solid";
+    color: #21409a;
+}
+
+.aboutJournal-buttons div {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #2b69af;
+}
+
+.aboutJournal-buttons h5 {
+    color: white;
+}
+
+.aboutJournal-buttons h5:hover {
+    color: #21409a;
+}
+
+.aboutJournal-buttons div:hover {
+    background-color: rgba(43, 105, 175, 0.1);
+}
+
+/* Editorial Board */
+
+.editorial-board-container img {
+    width: 180px;
+    object-fit: cover;
+    height: 200px;
+}
+
+.hr-rule {
+    flex-grow: 0.5;
+    height: 2px; 
+    background-color: #21409a; /* Set rule color */
+    margin-left: 10px;
+    margin-bottom: 20px;
+}

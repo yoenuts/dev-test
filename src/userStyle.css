@@ -1,0 +1,129 @@
+@font-face {
+    font-family: "Station";
+    src: url("https://db.onlinewebfonts.com/t/4fc7a085792340fab7ee70d72018b0ab.eot");
+    src: url("https://db.onlinewebfonts.com/t/4fc7a085792340fab7ee70d72018b0ab.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/4fc7a085792340fab7ee70d72018b0ab.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/4fc7a085792340fab7ee70d72018b0ab.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/4fc7a085792340fab7ee70d72018b0ab.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/4fc7a085792340fab7ee70d72018b0ab.svg#Station")format("svg");
+}
+  
+@font-face {
+    font-family: "Budmo W00 Solid";
+    src: url("https://db.onlinewebfonts.com/t/4c4a8b4f494bf44c6891cbd63789c881.eot");
+    src: url("https://db.onlinewebfonts.com/t/4c4a8b4f494bf44c6891cbd63789c881.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/4c4a8b4f494bf44c6891cbd63789c881.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/4c4a8b4f494bf44c6891cbd63789c881.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/4c4a8b4f494bf44c6891cbd63789c881.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/4c4a8b4f494bf44c6891cbd63789c881.svg#Budmo W00 Solid")format("svg");
+}
+
+
+*,
+*:before,
+*:after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-weight: 500;
+}
+
+body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.contactForm {
+    display: flex;
+    justify-content: space-evenly;
+    min-height: 100vh;
+    /*background-color: rgb(74, 78, 161, 0.3);*/
+    background-color: #f0f0f0;
+  
+}
+
+.article-container{
+    background-color: #ffffff;
+    max-width: 80%;
+    min-height: 650px;
+    padding: 35px 50px;
+    border-radius: 10px;
+    box-shadow: 20px 30px 25px rgba(0,0,0,0.15);
+}
+
+/*
+@media (min-width: 1340px) {
+    .article-container{
+        background-color: #ffffff;
+        max-width: 100%;
+        max-height: 600px;
+        margin-top: 10vw;
+        margin-bottom: 5vw;
+        padding: 35px 50px;
+        border-radius: 10px;
+        box-shadow: 20px 30px 25px rgba(0,0,0,0.15);
+    }
+}
+*/
+/**
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: #1c093c;
+}
+
+**/
+
+h1 {
+    /*color: #6e9acb;*/
+    color: #5864a2;
+    font-family: "Budmo W00 Solid";
+}
+
+form{
+    max-width: 100%;
+    margin: 50px auto 0 auto;
+}
+
+
+.article-container label{
+    color: #1c093c;
+    font-size: medium;
+    text-align: left;
+}
+
+
+input, textarea{
+    width: 100%;
+    font-weight: 400;
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: 1.2px solid #c4cae0;
+    margin-top: 5px;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+    border-color: #6f6df4;
+}
+
+
+button {
+    border: none;
+    padding: 10px 20px;
+    background-color: #6e9acb;
+    color: #ffffff;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: #21409a;
+}
+
+p{
+    text-align: left;
+    color: #bd2529;
+    font-size: 12px;
+    font-weight: 400;
+}
+
